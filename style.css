@@ -1,9 +1,13 @@
+.my_background_grey {
+    background-color: #2C3E50;
+}
+
 .my_background_green {
     background-color: #53BC9D;
 }
 
-.my_background_grey {
-    background-color: #2C3E50;
+.my_background_light_grey {
+    background-color: #3A546D;
 }
 
 .my_container_300 {
