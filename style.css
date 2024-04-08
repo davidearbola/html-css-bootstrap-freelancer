@@ -1,3 +1,28 @@
-header {
+.my_background_green {
+    background-color: #53BC9D;
+}
+
+.my_background_grey {
     background-color: #2C3E50;
+}
+
+.my_container_300 {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.my_hr {
+    border-top: 3px solid white;
+    opacity: 1;
+}
+
+.my_hr_dark {
+    border-top: 3px solid #2C3E50;
+    opacity: 1;
+}
+
+.my_form {
+    border-top: none;
+    border-left: none;
+    border-right: none;
 }
