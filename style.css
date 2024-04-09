@@ -30,3 +30,18 @@
     border-left: none;
     border-right: none;
 }
+
+.my_social_icon {
+    border: 1px solid white;
+    margin: 0 5px;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    line-height: 2rem;
+}
+
+@media all and (max-width: 576px) {
+    .my_container_300 {
+        width: 80%;
+    }
+}
