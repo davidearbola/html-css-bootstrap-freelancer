@@ -40,8 +40,15 @@
     line-height: 2rem;
 }
 
+.my_border_white {
+    border: 1px solid white;
+}
+
 @media all and (max-width: 576px) {
     .my_container_300 {
         width: 80%;
     }
 }
+
+
+
